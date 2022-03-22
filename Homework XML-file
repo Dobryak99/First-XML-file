@@ -1,0 +1,16 @@
+<Gameshop>
+    <Games>
+       <Action difficulty = "Easy">CSGO</Action>
+       <RPG difficulty = "Medium">Skyrim</RPG>
+       <OpenWorld difficulty = "Hard">GTA5</OpenWorld>
+    </Games>
+    <Comics>
+        <Fantazy Size = "Small">Spiderman</Fantazy>
+        <Sciencefiction Size = "Big">Witcher</Sciencefiction>
+    </Comics>
+    <Souvenirs>
+        <Hat color = "red"></Hat>
+        <Glasses color = "Black"></Glasses>
+    </Souvenirs>
+    <Coffe/>
+</Gameshop>
